@@ -13,7 +13,7 @@ Los patrones fueron explicados en clase usando Java, luego fueron implementados 
 
 ## Ejecución
 
-Para poder probar cada patrón, debes ingresar a su respectiva carpeta y una vez en dicho lugar, ejecutar su respectivo main.py.
+Para poder probar cada patrón, debes ingresar a su respectiva carpeta y una vez en dicho lugar, ejecutar su respectivo Main.py.
 
 ## Autor
 
